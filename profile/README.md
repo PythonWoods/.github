@@ -12,9 +12,9 @@ PythonWoods is an independent initiative dedicated to developing high-quality Py
 
 ## Projects
 
-### ⚡ Zensical  
+### ⚡ Zenzic 
 Static documentation tooling.  
-→ https://github.com/PythonWoods/zensical-lab  
+→ https://github.com/PythonWoods/zenzic-lab  
 
 ### 📡 arcLocus  
 Cellular network localization analysis platform (CDR/IRI).  
