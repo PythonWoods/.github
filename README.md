@@ -1,4 +1,4 @@
-# <img src="profile/assets/logo.svg" width="30" height="30" alt="⊙" valign="middle"> PythonWoods Organization
+# <img src="profile/assets/pythonwoods-logo.png" width="30" height="30" alt="⊙" valign="middle"> PythonWoods Organization
 
 This repository contains the organization-wide configuration, templates, and profile README for PythonWoods.
 
