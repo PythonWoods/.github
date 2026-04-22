@@ -1,4 +1,4 @@
-<img src="profile/assets/logo.svg" width="30" height="30" alt="⊙" valign="middle"> PythonWoods
+<img src="assets/pythonwoods-logo-nobg.png" width="30" height="30" alt="⊙" valign="middle"> PythonWoods
 
 Independent Python initiatives focused on reliable, maintainable software.
 
